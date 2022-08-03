@@ -1,0 +1,11 @@
+com\m2i\distributeurspringtp\controller\DistributeurController.class
+com\m2i\distributeurspringtp\Application.class
+com\m2i\distributeurspringtp\Exception\NotEnoughStockException.class
+com\m2i\distributeurspringtp\Repository\IuserService.class
+com\m2i\distributeurspringtp\form\BuyForm.class
+com\m2i\distributeurspringtp\Service\UserService.class
+com\m2i\distributeurspringtp\Repository\ProduitRepository.class
+com\m2i\distributeurspringtp\form\UserForm.class
+com\m2i\distributeurspringtp\Service\ProductDaoImpl.class
+com\m2i\distributeurspringtp\Exception\BalanceInsufficientException.class
+com\m2i\distributeurspringtp\entity\Product.class
